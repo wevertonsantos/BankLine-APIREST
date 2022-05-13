@@ -1,4 +1,4 @@
-# APIREST-Bankline
+# BankLine API REST
 
 Imagens da API BankLine feito no BootCamp Santander-Dev-Week.
 
